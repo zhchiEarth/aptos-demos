@@ -1,8 +1,0 @@
----
-profiles:
-  alice:
-    private_key: "0xc8b046b458a6d9f005bd19f977dbeb541c193dd0975a290c74fd4d63b6da0b1b"
-    public_key: "0x8818496a3c1eff835c02724ac503bb925f87bfe93f1e5a7377203cfa7e9811d0"
-    account: 0126c8f6a869615ec37160234a010b3dc89fd2113dce6073410cecb960efa2b1
-    rest_url: "http://localhost:8080"
-    faucet_url: "http://localhost:8081"
