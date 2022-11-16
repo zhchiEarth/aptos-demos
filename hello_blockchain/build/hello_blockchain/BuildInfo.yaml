@@ -1,0 +1,29 @@
+---
+compiled_package_info:
+  package_name: hello_blockchain
+  address_alias_instantiation:
+    Extensions: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_framework: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_std: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_token: "0000000000000000000000000000000000000000000000000000000000000003"
+    core_resources: 000000000000000000000000000000000000000000000000000000000a550c18
+    hello_blockchain: 0126c8f6a869615ec37160234a010b3dc89fd2113dce6073410cecb960efa2b1
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+    vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
+  source_digest: D0B4835C0C0DD6611DE7AF1199B1476CBC11B40D2AC40DA8925CDEEDB84CCBC2
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses:
+      hello_blockchain: 0126c8f6a869615ec37160234a010b3dc89fd2113dce6073410cecb960efa2b1
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: true
+dependencies:
+  - AptosFramework
+  - AptosStdlib
+  - MoveStdlib

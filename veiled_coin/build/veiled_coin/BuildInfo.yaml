@@ -1,0 +1,29 @@
+---
+compiled_package_info:
+  package_name: veiled_coin
+  address_alias_instantiation:
+    Extensions: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_framework: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_std: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_token: "0000000000000000000000000000000000000000000000000000000000000003"
+    core_resources: 000000000000000000000000000000000000000000000000000000000a550c18
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+    veiled_coin: 5297b2ac7168b32f5080b7c2e0bb8556a58668bfa2c0cc0c50e6bdb3654fb3a8
+    vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
+  source_digest: 912C744626CD3ABA331C85334F961B53D7E67D4C21B6C8EFB1E9C06521E05994
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses:
+      veiled_coin: 5297b2ac7168b32f5080b7c2e0bb8556a58668bfa2c0cc0c50e6bdb3654fb3a8
+    architecture: ~
+    fetch_deps_only: false
+    fetch_latest_git_deps: false
+dependencies:
+  - AptosFramework
+  - AptosStdlib
+  - MoveStdlib
